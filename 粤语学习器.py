@@ -1,12 +1,14 @@
-from tkinter import *
-import tkinter
-import tkinter as tk
+import pyttsx3,time
+
+engine = pyttsx3.init()
+engine.setProperty('rate',100)
+engine.setProperty('volume',0.6)
+engine.setProperty('voice', "com.apple.speech.synthesis.voice.sin-ji")
 
 
-# 全局设置
-window = Tk()
-window.geometry('400x300+300+100')
-window.config(background="#FFFFFF")
-window.title('粤语学习器')
-text_title = tk.Label(window,text='欢迎使用：水果种类鉴定器',bg='#000000',font=('Arial',12),width=60,height=3,fg='#CCCCCC')
-text_title.pack()
+while True:
+    text = input('请输入需要翻译的文字：')
+    engine.say(text)
+    engine.runAndWait()
+    engine.stop()
+    time.sleep(1)
