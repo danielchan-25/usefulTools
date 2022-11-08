@@ -2,7 +2,7 @@ import pyautogui
 import time
 import random
 
-with open('text.txt',mode='r',encoding='utf-8') as f:
+with open('Test_Texts.txt',mode='r',encoding='utf-8') as f:
     text = f.readlines()
 time.sleep(3)
 
