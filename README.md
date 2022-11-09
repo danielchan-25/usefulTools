@@ -147,7 +147,7 @@
 
 使用该工具生成一个 txt 给他，打开就能领悟你的意思。
 
-<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/Dove_str.png)" alt="show" />
+<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/Dove_str.png" alt="show" />
 
 **使用说明：**
 
