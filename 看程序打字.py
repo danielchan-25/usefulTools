@@ -13,5 +13,5 @@ while i > 0:
     time.sleep(1)
 
 while True:
-    pyautogui.typewrite(random.choice(text),interval=0.05)
-    time.sleep(2)
+    pyautogui.typewrite(random.choice(text),interval=0.15)
+    time.sleep(1)
