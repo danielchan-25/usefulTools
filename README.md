@@ -147,6 +147,8 @@
 
 使用该工具生成一个 txt 给他，打开就能领悟你的意思。
 
+<img src="![image-20221109191120136](/Users/daniel/Library/Application Support/typora-user-images/image-20221109191120136.png)" alt="show" />
+
 **使用说明：**
 
 1. 运行程序：`python 鸽.py Media/dove.png`
