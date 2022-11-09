@@ -23,7 +23,7 @@
 
 所以我写了一个小工具：**「复读机」**，可以让你在做复读机的同时，还能兼顾其它事情。
 
-<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/Repeater.gif" alt="show" />
+<img src="https://github.com/danielchan-25/usefulTools/blob/main/Media/Repeater.gif?raw=true" alt="show" />
 
 **使用说明：**
 
@@ -87,7 +87,7 @@
 
 有时候看程序打字，也是一种享受。
 
-<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/typing.gif" alt="show" />
+<img src="https://github.com/danielchan-25/usefulTools/blob/main/Media/typing.gif?raw=true" alt="show" />
 
 **使用说明：**
 
