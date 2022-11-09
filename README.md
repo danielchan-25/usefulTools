@@ -10,7 +10,6 @@
 
 ## 🖨 复读机
 
-<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/Repeater.gif" alt="show" />
 
 众所周知，人类的三大本质之一：**复读机**
 
@@ -21,6 +20,8 @@
 虽说复制粘贴过程中，只需要按两次键盘，但累计次数多了，手也会累的。
 
 所以我写了一个小工具：**「复读机」**，可以让你在做复读机的同时，还能兼顾其它事情。
+
+<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/Repeater.gif" alt="show" />
 
 **使用说明：**
 
