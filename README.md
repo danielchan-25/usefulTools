@@ -147,7 +147,7 @@
 
 使用该工具生成一个 txt 给他，打开就能领悟你的意思。
 
-<img src="![image-20221109191120136](/Users/daniel/Library/Application Support/typora-user-images/image-20221109191120136.png)" alt="show" />
+<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/Dove_str.png)" alt="show" />
 
 **使用说明：**
 
