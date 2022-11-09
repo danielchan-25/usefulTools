@@ -90,6 +90,8 @@
 
 有时候看程序打字，也是一种享受。
 
+<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/typing.gif" alt="show" />
+
 **使用说明：**
 
 1. 提前准备好一篇文章（英文），越长越好，一定要分行，可参考：`Media/Test_Text.txt`
