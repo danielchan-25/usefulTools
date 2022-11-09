@@ -130,6 +130,8 @@
 
 包含有：姓名、身份证号、出生年月、城市、详细街道、经纬度、银行卡号、公司名、电子邮箱、手机号码等。
 
+<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/Generate_Personal_Information.gif" alt="show" />
+
 **使用说明：**
 
 1. `python 生成个人信息.py`
