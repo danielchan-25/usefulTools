@@ -41,6 +41,8 @@
 
 通过可爱有趣的举牌小人，将这件难以启齿的事情，轻松幽默地告诉他/她。
 
+<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/upuptoyou.png" alt="show" />
+
 **使用说明：**
 
 1. 运行程序：`python 我来帮你说.py`
