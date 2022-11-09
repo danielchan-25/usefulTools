@@ -10,6 +10,8 @@
 
 ## 🖨 复读机
 
+<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/Repeater.gif" alt="show" />
+
 众所周知，人类的三大本质之一：**复读机**
 
 人类热爱玩梗跟风，虽然不明其意也要赶潮流的本质。
