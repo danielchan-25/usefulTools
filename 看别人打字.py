@@ -2,10 +2,16 @@ import pyautogui
 import time
 import random
 
-with open('Test_Texts.txt',mode='r',encoding='utf-8') as f:
+txt = input('请输入文章的地址：')
+with open(file=txt,mode='r',encoding='utf-8') as f:
     text = f.readlines()
-time.sleep(3)
+
+i = 4
+while i > 0:
+    i = i - 1
+    print(str(i) + '秒后开始')
+    time.sleep(1)
 
 while True:
-    pyautogui.typewrite(random.choice(text),interval=0.15)
+    pyautogui.typewrite(random.choice(text),interval=0.05)
     time.sleep(2)
