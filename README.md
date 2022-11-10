@@ -77,7 +77,7 @@
 
 包含有：姓名、身份证号、出生年月、城市、详细街道、经纬度、银行卡号、公司名、电子邮箱、手机号码等。
 
-<img src="https://gitee.com/daniel_lee25/usefulTools/raw/main/Media/Generate_Personal_Information.png" alt="show" />
+<img src="https://github.com/danielchan-25/usefulTools/blob/main/Media/Generate_Personal_Information.png?raw=true" alt="show" />
 
 **使用说明：**
 
